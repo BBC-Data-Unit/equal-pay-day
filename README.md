@@ -19,6 +19,12 @@ On November 10 - the day that campaigners highlight a woman on an average wage s
 * Bar chart: Areas where the gender pay gap is most towards women
 * Multiple bar chart: The pay gap in high-earning occupations
 
+## Further work outside the team
+
+![](https://pbs.twimg.com/media/DOrKtfOX4AI2mcG.jpg)
+
+Chris Love took the data from this repo and [made a scatterchart showing the distribution of pay inequality by area](https://twitter.com/ChrisLuv/status/930779264122851328), followed by [an interactive Tableau dashboard](https://public.tableau.com/profile/chrisluv#!/vizhome/EqualPayDay/EqualPayDay) complete with a full working calendar that updated to reflect the area selected.
+
 ## Statistical context: mean vs median average
 
 Depending on whether you use a mean average or a median average, the pay gap can be either 14% or 9%. Our story included an analysis by Robert Cuffe, BBC News Head of Statistics explaining the choice to use a mean average. He said: 
