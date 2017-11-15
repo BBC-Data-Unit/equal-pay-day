@@ -2,7 +2,7 @@
 
 ![](https://i.pinimg.com/564x/d2/5a/35/d25a35c6437b347c27ca7d2b175636bb.jpg)
 
-On November 10 - the day that campaigners highlight a woman on an average wage stops being paid relative to their male counterparts - we published a special feature allowing users to "Find out what the gender pay gap is in your area". 
+On November 10 - the day that campaigners highlight a woman on an average wage stops being paid relative to their male counterparts - we [published a special feature allowing users to "Find out what the gender pay gap is in your area"](http://www.bbc.co.uk/news/uk-england-41805053). 
 
 ## Get the data
 
